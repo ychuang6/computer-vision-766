@@ -24,12 +24,12 @@ Here are the sample images given to reconstruct a vase:
 
 Resulting images of:
 
-| Surface normal | Reflectance |
-|:------------- | :------------- |
-| <img src="hw5_photometric_stereo/vase_normal_map.png" height="300" align="left" /> | <img src="hw5_photometric_stereo/vase_albedo.png" height="300" align="left" /> |
+ Surface normal | Reflectance 
+:------------- | :------------- 
+ <img src="hw5_photometric_stereo/vase_normal_map.png" height="300" align="left" /> | <img src="hw5_photometric_stereo/vase_albedo.png" height="300" align="left" /> 
 
 
-| Reconstructed surface | 3D Surface reconstruction |
-|:------------- | :------------- |
-| <img src="hw5_photometric_stereo/vase_surface.png" height="300" align="left" /> | <img src="hw5_photometric_stereo/vase3Drecon.png" height="300" align="left" /> |
+ Reconstructed surface | 3D Surface reconstruction 
+:------------- | :------------- 
+ <img src="hw5_photometric_stereo/vase_surface.png" height="300" align="left" /> | <img src="hw5_photometric_stereo/vase3Drecon.png" height="300" align="left" /> 
 
