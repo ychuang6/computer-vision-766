@@ -1,6 +1,4 @@
-## CS766 Spring 2019
-
-## Homework 6
+## CS766 Spring 2019: Homework 6
 
 Author: YJC
 
