@@ -70,13 +70,14 @@ Vase albedo image:
 ![albedo](vase_albedo.png)
 
 
-### Surface Reconstruction
+
+## Surface Reconstruction Demo
 
 Reconstructed vase surface using the Frankot-Chellappa algorithm:
 
 ![vase surface](vase_surface.png)
 
-3D surface reconstruction of the vase image:
+3D surface reconstruction of the vase:
 
 ![3D vase surface](vase3Drecon.png)
 
