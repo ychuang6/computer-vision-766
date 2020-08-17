@@ -2,7 +2,22 @@
 
 ## Homework 6
 
-YJC - ychuang6@wisc.edu
+Author: YJC
+
+Homework challenge: Develop an application that allows a user to refocus a scene. 
+
+To run the homework, type: 
+
+```
+runHw6('all') 
+```
+
+To run only selected tests:
+
+```
+runHw6('challenge1a')
+runHw6('challenge1b')
+```
 
 ### Challenge 1a
 
@@ -16,9 +31,16 @@ When generating the index map, I did the modified laplacian function by applying
 The absolute sum of x and y direction filtered images are then pass through a convolution filter containing the value 1 only in order to get the sum of the created window size for the center of each window. 
 This is then filtered by average filter of 25x25. I used the size 25 since there are 25 images in total and a small averaging filter size were not able to filter out noises. 
 
+Resulting index map: 
+
+![index map](index_map.png)
 
 ### Challenge 1b
 
 In the refocusApp, I started by selecting a random image, then obtain image height, width and dimension values from this image as well as using it as the first image to be rendered. 
 The select and image rendering steps are embedded inside a while loop. 
 The app will terminate when user select region outside the render image area. 
+
+Example of focused image:
+
+![frame3](stack/frame3.jpg)
