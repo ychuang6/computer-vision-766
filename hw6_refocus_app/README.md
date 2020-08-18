@@ -19,9 +19,9 @@ runHw6('challenge1b')
 
 ### Challenge 1a
 
-I used the function "dir" to list the content of the folder and identified file names containing the extension ".jpg".
+I used the function **dir** to list the content of the folder and identified file names containing the extension ```.jpg```.
 With the identified files, I used a loop to save all images in the respective grayscale and rgb stacks.
-Grayscale images are obtained by using rgb2gray function.
+Grayscale images are obtained by using **rgb2gray** function.
 
 I use 1 as half_window_size to get window square of 3x3. 
 
@@ -39,6 +39,8 @@ In the refocusApp, I started by selecting a random image, then obtain image heig
 The select and image rendering steps are embedded inside a while loop. 
 The app will terminate when user select region outside the render image area. 
 
-Example of focused image:
+Demo of the **refocusApp**:
 
-![frame3](stack/frame3.jpg)
+![app demo](animatedRefocus.gif)
+
+
