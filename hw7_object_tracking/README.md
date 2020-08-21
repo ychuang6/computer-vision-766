@@ -60,7 +60,7 @@ Half window size was set as 30 and 40 for **challenge2a** and **2b** as the move
 
 ## Challenge2c
 
-I tried my best to use a much smaller half window size for challenge 2c as there are other similarly-colored subject. 
+I tried my best to use a much smaller half window size for challenge 2c so tracking are consistent and restricted to the selected region.  
 
 ![basketball player #9](basketball.gif)
 
